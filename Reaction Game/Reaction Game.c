@@ -1,9 +1,4 @@
-/*
- *Jakob Fowler 
- *Reaction Game using a button and two LEDs
- *Program #6
- *06/14/17 
-*/
+
 #include "simpletools.h"                      
 
 int main()                                   
