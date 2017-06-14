@@ -1,9 +1,4 @@
-/*
- *Jakob Fowler 
- *Use a button to turn on and off a LED
- *Program #5
- *06/14/17 
-*/
+
 #include "simpletools.h"                      
 
 int main()                                   
