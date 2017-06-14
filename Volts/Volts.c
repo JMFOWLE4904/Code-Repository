@@ -1,9 +1,4 @@
-/*
- *Jakob Fowler
- *Pragram #4
- *Measure Voltage using a potetiometer
- *06/13/17 
-*/
+
 #include "simpletools.h"                      // Include simple tools
 #include "adcDCpropab.h"
 int main()                                    // Main function
