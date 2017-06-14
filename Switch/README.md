@@ -1,1 +1,2 @@
-# We used a button to turn on ansd off a LED
+# We used a button to turn on and off a LED
+## We used our Microcontrollers to make a circut that has a button that changes the amount of energy going into pin 0 on it. Then we used it to turn on and off LEDs that are on the Microcontroller. We got the code to print on the screen the words "The button is pressed" and "The button is not pressed" with each respectively. After that we changed the code slightly so we could use a different type of circut and still have the code's logic correct.
